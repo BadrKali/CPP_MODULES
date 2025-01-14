@@ -1,4 +1,4 @@
-# C++ Pool 42 Network
+# C++ Pool 1337 School
 
 This repository contains my work and solutions from the C++ pool at the 1337 School. It showcases my journey of learning and mastering C++, focusing on foundational concepts, algorithms, and object-oriented programming (OOP) principles.
 
